@@ -10,7 +10,6 @@ import (
 	"fmt"
 	"github.com/julienschmidt/httprouter"
 	"github.com/rdegges/ipify-api/models"
-	"net"
 	"net/http"
 	"strings"
 )
